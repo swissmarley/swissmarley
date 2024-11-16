@@ -71,5 +71,5 @@
 
 <h3 align="left">Contributions</h3>
 <p align="left">
-  <img src="https://github.com/swissmarley/swissmarley/blob/output/github-contribution-grid-snake2.svg" alt="Contribution Snake" />
+  <img src="https://github.com/swissmarley/swissmarley/blob/output/github-contribution-grid-snake.gif" alt="Contribution Snake" />
 </p>
