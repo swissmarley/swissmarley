@@ -41,10 +41,10 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/dZC8pRrr" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://ch.linkedin.com/in/nakya-tagli-54741485" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://discord.gg/jkfCJtH7QQ" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://tryhackme.com/r/p/nakya333" target="_blank"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  /></a>
-  <a href="https://codepen.io/swissmarley" target="_blank"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  <a href="https://codepen.io/swissmarley" target="_blank"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  /></a>
+  <a href="https://huggingface.co/swisscondor" target="_blank"><img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=ffa500&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="huggingface logo"  />
   </a>
 </div>
 
